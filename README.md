@@ -1,7 +1,7 @@
 # Money Transfer Service
 
 ## Preface
-This project implements a simple money transfer service without using the spring framework.It uses a in memory database for storing data.
+This project implements a simple money transfer service without using the spring framework.It uses a In-Memory database for storing data.
 
 ## About
 A RESTful API that allows transfer money from one Bank Account to another in any currency.
